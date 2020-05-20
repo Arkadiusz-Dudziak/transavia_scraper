@@ -1,0 +1,10 @@
+C:\Users\adudz\source\repos\transavia2\transavia2\bin\Debug\transavia2.exe.config
+C:\Users\adudz\source\repos\transavia2\transavia2\bin\Debug\transavia2.exe
+C:\Users\adudz\source\repos\transavia2\transavia2\bin\Debug\transavia2.pdb
+C:\Users\adudz\source\repos\transavia2\transavia2\obj\Debug\transavia2.csprojAssemblyReference.cache
+C:\Users\adudz\source\repos\transavia2\transavia2\obj\Debug\transavia2.csproj.CoreCompileInputs.cache
+C:\Users\adudz\source\repos\transavia2\transavia2\obj\Debug\transavia2.exe
+C:\Users\adudz\source\repos\transavia2\transavia2\obj\Debug\transavia2.pdb
+C:\Users\adudz\source\repos\transavia2\transavia2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adudz\source\repos\transavia2\transavia2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adudz\source\repos\transavia2\transavia2\obj\Debug\transavia2.csproj.CopyComplete
